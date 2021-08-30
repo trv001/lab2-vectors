@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1630089942 source:c:\users\79222\desktop\lab2\main.cpp
+	<iostream>
+	"ArraySequence.h"
+	"ListSequence.h"
+	"Types.h"
+	"Vector.h"
+
+1629894961 c:\users\79222\desktop\lab2\arraysequence.h
+	"Sequence.h"
+
+1629895028 c:\users\79222\desktop\lab2\sequence.h
+	"DynamicArray.h"
+	"LinkedList.h"
+
+1629895263 c:\users\79222\desktop\lab2\dynamicarray.h
+	<cassert>
+
+1629895117 c:\users\79222\desktop\lab2\linkedlist.h
+	<cassert>
+
+1629894998 c:\users\79222\desktop\lab2\listsequence.h
+	"Sequence.h"
+
+1629985928 c:\users\79222\desktop\lab2\complex.h
+
+1630090619 c:\users\79222\desktop\lab2\vector.h
+	<cassert>
+	<cmath>
+
+1630080461 c:\users\79222\desktop\lab2\types.h
+
+1630089942 source:c:\users\79222\desktop\lab\lab2\main.cpp
+	<iostream>
+	"ArraySequence.h"
+	"ListSequence.h"
+	"Types.h"
+	"Vector.h"
+
+1629894961 c:\users\79222\desktop\lab\lab2\arraysequence.h
+	"Sequence.h"
+
+1629895028 c:\users\79222\desktop\lab\lab2\sequence.h
+	"DynamicArray.h"
+	"LinkedList.h"
+
+1629895263 c:\users\79222\desktop\lab\lab2\dynamicarray.h
+	<cassert>
+
+1629895117 c:\users\79222\desktop\lab\lab2\linkedlist.h
+	<cassert>
+
+1629894998 c:\users\79222\desktop\lab\lab2\listsequence.h
+	"Sequence.h"
+
+1630080461 c:\users\79222\desktop\lab\lab2\types.h
+
+1630090619 c:\users\79222\desktop\lab\lab2\vector.h
+	<cassert>
+	<cmath>
+
+1630089944 source:c:\users\lostm\desktop\lab\lab2\main.cpp
+	<iostream>
+	"ArraySequence.h"
+	"ListSequence.h"
+	"Types.h"
+	"Vector.h"
+
+1629894962 c:\users\lostm\desktop\lab\lab2\arraysequence.h
+	"Sequence.h"
+
+1629895030 c:\users\lostm\desktop\lab\lab2\sequence.h
+	"DynamicArray.h"
+	"LinkedList.h"
+
+1629895264 c:\users\lostm\desktop\lab\lab2\dynamicarray.h
+	<cassert>
+
+1629895118 c:\users\lostm\desktop\lab\lab2\linkedlist.h
+	<cassert>
+
+1629895000 c:\users\lostm\desktop\lab\lab2\listsequence.h
+	"Sequence.h"
+
+1630080462 c:\users\lostm\desktop\lab\lab2\types.h
+
+1630090620 c:\users\lostm\desktop\lab\lab2\vector.h
+	<cassert>
+	<cmath>
+
